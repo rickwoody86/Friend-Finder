@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "An app that will take in results your users' surveys, then compare their answers with those from other users.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPUhobbes/FriendFinder.git"
+  },
+  "author": "Richard Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPUhobbes/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/CPUhobbes/FriendFinder#readme",
+  "keywords": [
+    "friend",
+    "finder"
+  ]
+}

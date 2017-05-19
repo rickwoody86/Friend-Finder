@@ -1,0 +1,47 @@
+body{
+	color: #ffffff;
+}
+
+img{
+	padding: 5px;
+	border: 1px solid #cccccc;
+	margin-bottom: 10px;
+}
+
+.gallery{
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+.jumbotron{
+	background-color: #0073af;
+	position: relative;
+  	margin-top:40px;
+  	padding-top: 20px; 
+}
+
+.topPadding{
+	margin-top: 5px;
+
+}
+.startButton{
+	text-align: center;
+	padding: 20px 10px;
+}
+.friendsLink{
+	margin-top: -20px;
+	text-align: right;
+}
+
+.submitButton{
+	text-align: center;
+	margin-top: 15px;
+}
+
+.textError{
+	background-color: #ffd1d1;
+}
+
+.modalTextColor{
+	color: #000000;
+}
